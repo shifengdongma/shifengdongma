@@ -242,9 +242,8 @@ GPA: **3.47 / 4.0** · Major Score: **89.41 / 100** · CET-4: **607**
 
 <div align="center">
 
-![Li Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shifengdongma&show_icons=true&hide_border=true&include_all_commits=true&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifengdongma&layout=compact&hide_border=true)
+<img src="./profile/stats.svg" height="165" alt="Li Yang's GitHub Stats" />
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
 
 </div>
 
