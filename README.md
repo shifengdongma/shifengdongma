@@ -237,15 +237,7 @@ GPA: **3.47 / 4.0** · Major Score: **89.41 / 100** · CET-4: **607**
 - **Data-intensive Applications:** 持续研究 GIS、仿真数据、实时消息链路和大体量数据可视化场景下的性能与工程化问题。
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Li Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shifengdongma&show_icons=true&hide_border=true&include_all_commits=true&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifengdongma&layout=compact&hide_border=true)
-
-</div>
 
 ## 📫 Contact
 
