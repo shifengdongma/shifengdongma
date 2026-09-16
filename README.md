@@ -215,15 +215,27 @@ GPA: **3.47 / 4.0** · Major Score: **89.41 / 100** · CET-4: **607**
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Engineering Portfolio at a Glance
 
-<div align="center">
+与其使用依赖第三方服务的动态 GitHub 统计卡片，这里直接展示更能体现实际工程能力的项目方向与代表仓库：
 
-![Li Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shifengdongma&show_icons=true&hide_border=true&include_all_commits=true&count_private=false)
+| Direction | Representative Repository | Engineering Highlights |
+|---|---|---|
+| 🧪 **Test Development & Mobile Automation** | [Android_Auto_Test](https://github.com/shifengdongma/Android_Auto_Test) | Appium · Pytest · Allure · POM · 多设备 · 性能 / 稳定性测试 |
+| 🚁 **ATC / UTM Simulation & Test Tools** | [atc_test_platfrom](https://github.com/shifengdongma/atc_test_platfrom) | Redis · Kafka · Flask · WebSocket · 场景编排 · 仿真数据注入 |
+| 👂 **Scientific Computing & FEM** | [Human-Ear-Acoustic-Finite-Element-Simulation-and-Auditory-Parameter-Analysis-System](https://github.com/shifengdongma/Human-Ear-Acoustic-Finite-Element-Simulation-and-Auditory-Parameter-Analysis-System) | Abaqus / COMSOL 数据接入 · 耳蜗响应 · ACF / IACF / IACC · 科研报告 |
+| 🔊 **Acoustics + AI Research Software** | [indoor-acoustics-simulation](https://github.com/shifengdongma/indoor-acoustics-simulation) | FastAPI · Three.js · 声学指标 · CNN · EEG · 可听化 |
+| 🤖 **LLM Applications** | [professional-course-teaching-assistant](https://github.com/shifengdongma/professional-course-teaching-assistant) | LoRA · 大模型微调 · 教学问答 · Web 应用 |
+| 🎬 **Generative AI & 3D Workflow** | [cursor-blender-mcp](https://github.com/shifengdongma/cursor-blender-mcp) | Blender · MCP · Prompt Engineering · Luma · AI Video Workflow |
+| 🗺️ **GIS & Nautical Chart Engineering** | [polar-gis](https://github.com/shifengdongma/polar-gis) | S-57 · GIS 服务 · 海图批量加载 · 地图渲染性能优化 |
+| 🎥 **Real-time Web Applications** | [videos-meeting-online-](https://github.com/shifengdongma/videos-meeting-online-) | FastAPI · Vue3 · WebRTC · WebSocket · 在线会议 / 直播 |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifengdongma&layout=compact&hide_border=true)
+### 🎯 Current Focus
 
-</div>
+- **Test Engineering:** 将手工测试场景转化为可维护、可复用的自动化测试资产，并关注测试工具与质量平台建设。
+- **Scientific Software:** 将声学、有限元、信号处理和机器学习算法组织成完整可运行的科研软件系统。
+- **AI Engineering:** 探索 LLM、RAG、MCP、Agent 与生成式 AI 在真实工程流程中的集成方式。
+- **Data-intensive Applications:** 持续研究 GIS、仿真数据、实时消息链路和大体量数据可视化场景下的性能与工程化问题。
 
 ---
 
