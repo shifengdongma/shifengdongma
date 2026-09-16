@@ -16,11 +16,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 哈尔滨工程大学计算机科学与技术硕士在读，本科同校计算机科学与技术专业。
-- 🧪 关注 **软件测试 / 测试开发 / 自动化测试 / 质量工程**，有低空空管系统 PC + Android 移动端测试实践。
+- 🧪 关注 **软件开发 / 软件测试 / 测试开发 / 自动化测试 / 质量工程 / 项目经理**，有低空空管系统 PC + Android 移动端测试实践。
 - 📱 使用 **Python + Appium + Pytest + Allure + POM** 搭建 Android 自动化测试框架，覆盖真机、H5、原生 APK、多设备适配、性能与稳定性测试。
 - 🚁 参与低空空管 ATC/UTM 仿真数据注入平台开发与测试，涉及 **Redis、Kafka、MySQL、达梦、Docker、WebSocket** 等技术。
 - 🤖 熟悉 AI 辅助开发，了解 **LoRA / RAG / MCP / Prompt Engineering**，持续探索 AI + Testing 的工程实践。
-- 🔎 目前希望进一步深入 **测试开发、自动化测试、Python 后端及质量平台建设**。
+- 🔎 目前希望进一步深入 **系统开发、测试开发、自动化测试、Python 后端及质量平台建设**。
 
 ---
 
@@ -90,12 +90,6 @@
 - **FastAPI / Vue3 / WebRTC / WebSocket**
 - 覆盖会议预约、音视频互动、桌面共享、在线表决、直播中心、权限与后台管理。
 
-### 🧭 [Arctic Navigation Platform](https://github.com/shifengdongma/arctic-navigation-platform)
-
-> B/S + 微服务极地航行平台探索项目
-
-- **FastAPI / PostgreSQL / PostGIS / GeoServer / Leaflet / Docker**
-- 关注海图数据、GIS 服务、微服务与浏览器端地图展示性能。
 
 ### 🗺️ [Polar GIS](https://github.com/shifengdongma/polar-gis)
 
@@ -108,8 +102,9 @@
 ## 💼 Experience
 
 ### Suzhou Keda Technology Co., Ltd. — System Testing Intern
+### 苏州科达科技股份有限公司 - 系统测试工程师
 
-**2026.07 – 2026.09**
+**2026.06 – 2026.09**
 
 - 参与低空空管系统 v1.7.0 全量功能回归及 Android 移动端测试。
 - 执行测试用例、记录测试日志、提交 TAPD 缺陷并进行修复回归。
@@ -118,6 +113,7 @@
 - 参与达梦数据库迁移冒烟测试与 MCP 服务功能 / 权限 / 工具调用测试。
 
 ### Shanghai Telecom Henglian Network Co., Ltd. — Intern
+### 上海电信恒联网络有限公司 - 战略合作部
 
 **2026.01 – 2026.04**
 
