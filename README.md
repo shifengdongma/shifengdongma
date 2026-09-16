@@ -217,7 +217,6 @@ GPA: **3.47 / 4.0** · Major Score: **89.41 / 100** · CET-4: **607**
 
 ## 🧭 Engineering Portfolio at a Glance
 
-与其使用依赖第三方服务的动态 GitHub 统计卡片，这里直接展示更能体现实际工程能力的项目方向与代表仓库：
 
 | Direction | Representative Repository | Engineering Highlights |
 |---|---|---|
